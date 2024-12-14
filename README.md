@@ -9,5 +9,7 @@ En la POO creamos dos clases Dia para representar un día con su temperatura y S
 
 Comparación y Ventajas
 
-Programación Tradicional, simple y directa para problemas pequeños. Fácil de entender para principiantes. Programación Orientada a Objetos, mejor organización y reutilización de código para problemas más complejos. Facilita la extensibilidad y mantenimiento del código, promueve un diseño más modular y orientado a objetos.
+Programación Tradicional, simple y directa para problemas pequeños. Fácil de entender para principiantes. 
+
+Programación Orientada a Objetos, mejor organización y reutilización de código para problemas más complejos. Facilita la extensibilidad y mantenimiento del código, promueve un diseño más modular y orientado a objetos.
 La POO ofrece una estructura más organizada y permite una mayor flexibilidad para agregar funcionalidades en el futuro por ejemplo, calcular la temperatura máxima y mínima.
